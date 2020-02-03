@@ -1,0 +1,3 @@
+Important!
+Make sure to always update the UnityShaderVariables.cginc and Custom internal shaders every time Unity is updated with a new version.
+Make sure to re-import/compile the first person shaders every time this change happens
